@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/loginBG.PNG</file>
+    <file>images/bg.PNG</file>
+    <file>images/head_bg.png</file>
+    <file>images/imgInter.jpg</file>
+    <file>images/loginBack.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>images/predict_res_function.png</file>
+    <file>icons/close.png</file>
+    <file>icons/maxmize.png</file>
+    <file>icons/minisize.png</file>
+    <file>icons/minus.png</file>
+    <file>icons/my.png</file>
+    <file>icons/photo.png</file>
+  </qresource>
+</RCC>
